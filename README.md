@@ -1,6 +1,4 @@
-# customer-churn-prediction
-Certainly! Here's the revised text incorporating your additional content:
-
+# customer-churn-prediction version 1 
 ---
 
 In the telecommunications industry, predicting and managing customer churn is crucial for enhancing customer retention strategies. This project focused on building a predictive model using the "Orange Telecom Customer Churn Dataset" from Kaggle to forecast customer attrition accurately. This capability empowers telecom firms to proactively address potential churn and implement targeted retention strategies.
